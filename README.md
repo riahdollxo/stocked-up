@@ -7,13 +7,11 @@ Home inventory and smart restock planner with barcode scanning, shopping lists, 
 ## Screenshots
 
 ### Dashboard
-![Dashboard]
+![Dashboard](Dashboard.png)
 
 ### Inventory
-![Inventory]
+![Inventory](Inventory.png)
 
 ### Shopping List
-![Shopping List]
+![Shopping List](List.png)
 
-### Barcode Scanner
-![Barcode Scanner]
