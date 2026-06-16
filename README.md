@@ -56,10 +56,6 @@ Stocked Up is an AI-powered household inventory and preparedness app designed to
 ### Inventory
 ![Inventory](Inventory.png)
 
-### Shopping List
-![Shopping List](List.png)
-
-
 ---
 
 ## 🛠️ Built With
