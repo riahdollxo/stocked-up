@@ -75,7 +75,7 @@ Stocked Up is an AI-powered household inventory and preparedness app designed to
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/stocked-up.git
+git clone https://github.com/riahdollxo/stocked-up.git
 cd stocked-up
 ```
 
