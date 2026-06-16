@@ -4,7 +4,7 @@
 
 Stocked Up is an AI-powered household inventory and preparedness app designed to help users track inventory, monitor household health, plan shopping trips, and reduce waste. From pantry staples to beauty products, Stocked Up helps households stay organized and prepared.
 
-🔗**Live Demo:** [Try Stocked Up](https://cozy-inventory-ai.lovable.app)
+🔗 **Live Demo:** [Try Stocked Up](https://cozy-inventory-ai.lovable.app)
 
 🔗 **GitHub Repository:** https://github.com/riahdollxo/stocked-up
 
