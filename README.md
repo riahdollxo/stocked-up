@@ -126,7 +126,7 @@ Stocked Up aims to become an all-in-one household management platform that empow
 Created with ❤️ by **Mariah Piggs**
 
 - GitHub: https://github.com/riahdollxo
-- LinkedIn:(https://www.linkedin.com/in/mariah-piggs-a428a589/)
+- LinkedIn:(https://www.linkedin.com/in/mariahpiggs)
 
 ---
 ## Copyright
