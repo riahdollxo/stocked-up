@@ -3,7 +3,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **Your home, always ready.**
 
@@ -132,5 +131,4 @@ Created with ❤️ by **Mariah Piggs**
 ---
 
 ## 📄 License
-
-This project is licensed under the MIT License.
+All rights reserved. This repository is provided for educational and portfolio purposes only. No permission is granted to copy, modify, or redistribute this software without explicit permission from the author.
