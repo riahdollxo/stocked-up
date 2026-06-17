@@ -134,4 +134,4 @@ Created with ❤️ by **Mariah Piggs**
 © 2026 Mariah Piggs. All rights reserved.
 
 ## 📄 License
-All rights reserved. This repository is provided for educational and portfolio purposes only. No permission is granted to copy, modify, or redistribute this software without explicit permission from the author.
+This repository is provided for educational and portfolio purposes only. No permission is granted to copy, modify, or redistribute this software without explicit permission from the author.
