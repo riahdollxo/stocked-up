@@ -1,5 +1,10 @@
 # 🌿 Stocked Up
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 **Your home, always ready.**
 
 Stocked Up is an AI-powered household inventory and preparedness app designed to help users track inventory, monitor household health, plan shopping trips, and reduce waste. From pantry staples to beauty products, Stocked Up helps households stay organized and prepared.
@@ -61,7 +66,7 @@ Stocked Up is an AI-powered household inventory and preparedness app designed to
 
 ## 🛠️ Built With
 
-- **Lovable AI**
+- **Lovable AI(AI-assisted development)**
 - **React**
 - **TypeScript**
 - **Supabase**
