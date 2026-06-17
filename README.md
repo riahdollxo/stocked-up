@@ -129,6 +129,9 @@ Created with ❤️ by **Mariah Piggs**
 - LinkedIn:(https://www.linkedin.com/in/mariah-piggs-a428a589/)
 
 ---
+## Copyright
+
+© 2026 Mariah Piggs. All rights reserved.
 
 ## 📄 License
 All rights reserved. This repository is provided for educational and portfolio purposes only. No permission is granted to copy, modify, or redistribute this software without explicit permission from the author.
